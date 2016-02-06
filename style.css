@@ -1,0 +1,22 @@
+table {
+  margin-bottom: 15px;
+}
+
+table tr td {
+  width: 300px;
+  padding: 5px;
+  text-align: center;
+}
+
+input {
+  width: 300px;
+  display: block;
+  margin-bottom: 15px;
+  padding: 5px;
+}
+
+button {
+  width: 300px;
+  display: block;
+  padding: 5px;
+}
